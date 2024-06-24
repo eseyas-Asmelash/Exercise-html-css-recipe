@@ -1,4 +1,4 @@
-My Favorite recipe
+MY FAVORITE RECIPE
 
 Tools :
 
