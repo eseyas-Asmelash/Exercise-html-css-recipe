@@ -22,5 +22,7 @@ HTML Structure :
 In your index.html file, set up the basic HTML structure with the following sections:
 
 Header (navbar)
+
 Recipes
+
 Contact
